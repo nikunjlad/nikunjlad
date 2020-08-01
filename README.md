@@ -11,7 +11,7 @@ I am a Computer Vision Developer and a Machine Learning Engineer. I love working
 - :two_men_holding_hands: I’m looking to collaborate on Computer Vision related projects.
 - :speech_balloon: Ask me about anything related to vision
 - :grin: Pronouns: He/His/Him
-- ⚡ Fun fact: I have 2 sets of wisdom teeth!! :grimacing:
+- :zap: Fun fact: I have 2 sets of wisdom teeth!! :grimacing:
 
 
 ### Connect with me:
