@@ -25,5 +25,7 @@ I am a Computer Vision Developer and a Machine Learning Engineer. I love working
 
 ### Languages and Tools:
 
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/website.png" height="32" />&nbsp;&nbsp;&nbsp;
+
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikunjlad&show_icons=true&hide_border=true" />
