@@ -2,6 +2,7 @@
 
 <!--
 **nikunjlad/nikunjlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I am a Computer Vision Developer and a Machine Learning Engineer. I love working on interesting challenges in Computer Vision, Natural Language Processing and Audio.
 
@@ -12,4 +13,3 @@ I am a Computer Vision Developer and a Machine Learning Engineer. I love working
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: ...
--->
