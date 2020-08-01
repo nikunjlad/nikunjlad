@@ -1,4 +1,4 @@
-### Hi there, I am Nikunj Lad 👋
+### Hello there, I am Nikunj Lad 👋
 
 <!--
 **nikunjlad/nikunjlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,13 +6,12 @@
 
 I am a Computer Vision Developer and a Machine Learning Engineer. I love working on interesting challenges in Computer Vision, Natural Language Processing and Audio.
 
-- 🔭 I’m currently working on Interpretability in Image Segmentation Techniques.
-- 🌱 I’m am learning Semantic, Instance and Panoptic Segmentation based algorithms.
-- 👯 I’m looking to collaborate on projects computer vision projects.
-- :speech_balloon: Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: 
+- :microscope: I’m currently working on Interpretability in Image Segmentation Techniques.
+- :seedling: I’m am learning Semantic, Instance and Panoptic Segmentation based algorithms.
+- :two_men_holding_hands: I’m looking to collaborate on Computer Vision related projects.
+- :speech_balloon: Ask me about anything related to vision
+- :grin: Pronouns: He/His/Him
+- ⚡ Fun fact: I have 2 sets of wisdom teeth!! :grimacing:
 
 
 ### Connect with me:
