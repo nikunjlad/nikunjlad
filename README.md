@@ -17,8 +17,7 @@ I am a Computer Vision Developer and a Machine Learning Engineer. I love working
 
 ### Connect with me:
 
-
-[<img align="left" width="32px" src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/website.svg" />](https:nikunjlad.dev)
+<div><a href="https://nikunjlad.dev" target="_blank"><img src="assets/website.svg" alt="personal-website" width="32px"></a></div>
 [<img align="left" width="24px" src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/linkedin.svg" />](https://www.linkedin.com/in/nikunjlad)
 
 
