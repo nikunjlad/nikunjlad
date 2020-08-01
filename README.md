@@ -29,8 +29,18 @@ I am a Computer Vision Developer and a Machine Learning Engineer. I love working
 <img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/numpy.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/opencv.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/pytorch.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/scikit.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/keras.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/tensorflow.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/c++.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/matlab.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/github.svg" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/pycharm.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/jupyter.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/bash.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/aws.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/cloud.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/sql.png" height="30" />&nbsp;&nbsp;&nbsp;
 
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikunjlad&show_icons=true&hide_border=true" />
