@@ -28,6 +28,7 @@ I am a Computer Vision Developer and a Machine Learning Engineer. I love working
 <img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/python.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/numpy.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/pytorch.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/keras.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/tensorflow.png" height="30" />&nbsp;&nbsp;&nbsp;
 
 
