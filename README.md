@@ -43,7 +43,7 @@ I am a Computer Vision Developer and a Machine Learning Engineer. I love working
 <img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/sql.png" height="30" />&nbsp;&nbsp;&nbsp;
 </br>
 
-<img align="center" alt="Nikunj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikunjlad&show_icons=true&hide_border=true" /> 
+<img align="right" alt="Nikunj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikunjlad&show_icons=true&hide_border=true" /> 
 </br>
 
 <p align="center">
