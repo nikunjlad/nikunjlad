@@ -44,10 +44,10 @@ I am a Computer Vision Developer and a Machine Learning Engineer. I love working
 </br>
 
 <img align="center" alt="Nikunj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikunjlad&show_icons=true&hide_border=true" /> 
-</br></br></br>
+</br>
 
 <p align="center">
   You're Visitor Number 🚀 <br/>
-<img src="https://profile-counter.glitch.me/nikunjlad/count.svg" />
+<img align="center" src="https://profile-counter.glitch.me/nikunjlad/count.svg" />
  </p>
 
