@@ -6,8 +6,8 @@
 
 I am a Computer Vision Developer and a Machine Learning Engineer. I love working on interesting challenges in Computer Vision, Natural Language Processing and Audio.
 
-- :microscope: I’m currently working on Interpretability in Image Segmentation Techniques.
-- :seedling: I’m am learning Semantic, Instance and Panoptic Segmentation based algorithms.
+- :microscope: I’m currently working on Interpretability in Image Classification Techniques.
+- :seedling: I’m am exploring Bias and Fairness in AI using IBM AIF360.
 - :two_men_holding_hands: I’m looking to collaborate on Computer Vision related projects.
 - :speech_balloon: Ask me about anything related to vision
 - :grin: Pronouns: He/His/Him
