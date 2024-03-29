@@ -14,6 +14,8 @@ I am a Computer Vision Developer and a Machine Learning Engineer. I love working
 - :zap: Fun fact: I have 2 sets of wisdom teeth!! (UDPATE: Removed one set in Jan 2023) :grimacing:
 </br>
 
+![](https://komarev.com/ghpvc/?username=nikunjlade&color=green)
+
 ### Connect with me:
 
 <a href="https://nikunjlad.dev" target="_blank"><img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/website.png" alt="website" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
